@@ -1,0 +1,3 @@
+aio_pika
+sqlalchemy
+psycopg2-binary

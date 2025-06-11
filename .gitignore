@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Pytest / coverage
+.cache/
+.coverage
+htmlcov/
+pytest_cache/
+*.cover
+coverage.xml
+
+# VS Code
+.vscode/
+
+# Environment variables
+.env
+*.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docker
+*.pid
+*.sock
+*.tar
+*.img
+*.bak
+*.old
+docker-compose.override.yml
+
+# RabbitMQ config
+rabbitmq-data/
+rabbitmq-definitions.json.bak
+
+# Log files
+logs/
+*.log
+
+# Ignore uploads/test files
+uploads/
+test_output.txt
+sample_output.txt

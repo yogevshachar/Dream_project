@@ -1,0 +1,12 @@
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+System Idle Process              0 Services                   0         24 K
+System                           4 Services                   0      4,560 K
+smss.exe                       332 Services                   0      1,024 K
+csrss.exe                      408 Services                   0      4,096 K
+wininit.exe                    516 Services                   0      3,200 K
+services.exe                   612 Services                   0      8,192 K
+lsass.exe                      620 Services                   0     12,000 K
+svchost.exe                    708 Services                   0     18,432 K
+chrome.exe                   10456 Console                    1    104,857 K
+notepad.exe                  11578 Console                    1      9,872 K

@@ -1,0 +1,6 @@
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         1  0.0  0.1 167648  1404 ?        Ss   Jun06   0:00 /sbin/init
+postgres   543  0.1  1.2 765432 123456 ?        Ss   Jun06   1:00 /usr/lib/postgresql/15/bin/postgres -D /var/lib/postgresql/data
+user      1234  0.3  2.1 256000 40960 ?        Sl   Jun06   0:10 /usr/bin/python3 /app/main.py
+user      2345  0.0  0.5 204800 10240 ?        Sl   Jun06   0:01 /opt/google/chrome/chrome --type=renderer
+user      3456  0.2  0.9 308000 15360 ?        Sl   Jun06   0:07 /usr/bin/code
